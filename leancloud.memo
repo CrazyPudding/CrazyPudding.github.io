@@ -12,4 +12,5 @@
 {"title":"Android 动画——View Animation","url":"/2018/06/21/ViewAnimation/"},
 {"title":"JVM 之旅——编译 OpenJDK","url":"/2019/04/16/learning-jvm-build-my-openjdk/"},
 {"title":"浅析 Flutter 渲染原理","url":"/2020/06/29/how-flutter-rendering/"},
+{"title":"浅析 Dart 异步机制","url":"/2020/09/02/dart-async-mechanism/"},
 ]
